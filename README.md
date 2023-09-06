@@ -1,1 +1,1 @@
-# Lista-6
+Aqui está alguns exercícios que a fiz na faculdade.
