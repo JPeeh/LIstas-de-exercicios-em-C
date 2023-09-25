@@ -1,1 +1,3 @@
-Aqui está alguns exercícios que a fiz na faculdade.
+# Aqui está alguns exercícios que a fiz na faculdade.
+
+faculdade
